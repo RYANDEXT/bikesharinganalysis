@@ -7,8 +7,8 @@ from babel.numbers import format_currency
 
 
 
-day_df = pd.read_csv("day.csv")
-hour_df = pd.read_csv("hour.csv")
+day_df = pd.read_csv("https://raw.githubusercontent.com/RYANDEXT/bikesharinganalysis/main/day.csv")
+hour_df = pd.read_csv("https://raw.githubusercontent.com/RYANDEXT/bikesharinganalysis/main/hour.csv")
 
 
 
