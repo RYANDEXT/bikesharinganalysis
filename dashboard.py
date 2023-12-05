@@ -21,7 +21,7 @@ datetime_columns = ["dteday"]
 
 st.header('Bike sharing Dashboard :sparkles:')
 
-st.image("BIKERENTAL.PNG")
+st.image("https://github.com/RYANDEXT/bikesharinganalysis/blob/main/BIKERENTAL.png")
 
 st_lottie("https://lottie.host/8040c8da-06c9-4459-a388-3ec335afc51f/B9lqdA7XLw.json")
 
