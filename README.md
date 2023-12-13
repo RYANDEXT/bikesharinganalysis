@@ -1,5 +1,5 @@
 # Rental Bike Dashboard ✨
-
+Exploratory Data Analysis & Explanatory Data Analysis
 ## Setup environment
 ```
 conda create --name bikesharing python=3.9
